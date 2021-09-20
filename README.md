@@ -9,13 +9,13 @@
 - 🌱 I’m currently learning "python"
 - ⚡ I am also good at digital design
 
-### Connect with me:
+### Social Media:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][reddit]
 
 <br />
 
@@ -43,26 +43,9 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [SQL vs NoSQL](https://www.youtube.com/watch?v=sG28-D5o9tg)
-- [Got Scammed 😡, Top Paid Dev Jobs 💲, & How to Network for Success 📩 // STACKr News Weekly](https://www.youtube.com/watch?v=xQxnLiHz2-A)
-- [Top VS Code Updates | v1.60 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=cPxiA9enjz0)
-- [7 Days to Learn React 🤯, 30 Days to Build a SaaS 💪, 40 Min Full Stack App 🦸‍♀️ // STACKr News Weekly](https://www.youtube.com/watch?v=bsJ7bf1hx74)
-- [How to Edge Cache GraphQL APIs // Max Stoiber React Advanced London Interview](https://www.youtube.com/watch?v=zAXG-c_JrkQ)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+
 
 </details>
 
@@ -74,15 +57,11 @@
 </details>
 
 [website]: http://noegenes.tk/
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[reddit]: https://www.reddit.com/user/PixelPixelUzay
+[linkedin]: https://www.linkedin.com/in/yusuf-mert-3776351bb/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-
-<img align="left" alt="Noegenes" width="250px" src="https://i.imgur.com/ivuvTyU.png" />
