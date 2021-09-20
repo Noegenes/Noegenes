@@ -1,12 +1,12 @@
 ### Hi there, I'm Yusuf / [noegenes][website]
 
-[<img align="left" alt="Noegenes" width="250px" src="https://i.imgur.com/ivuvTyU.png" />)](http://noegenes.tk/)
+[<img align="left" alt="Noegenes" width="200px" src="https://i.imgur.com/ivuvTyU.png" />)](http://noegenes.tk/)
 
-## I'm a student,developer and dogital designer!!
+## I'm a student, developer and digital designer!
 
 - 🔭 ...
 - 🌱 I’m currently learning "python"
-- ⚡ I am also good at digital design
+- ⚡ I’m also good at digital design
 
 ### Social Media:
 
@@ -39,8 +39,6 @@
 
 <br />
 <br />
-
----
 
 
 ---
