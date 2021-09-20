@@ -1,9 +1,8 @@
-### Hi there, I'm Yusuf / [noegenes][website]
-
-[![Website](https://i.imgur.com/ivuvTyU.png)](http://noegenes.tk/)
+### Hi there, I'm Yusuf / [noegenes][<img align="left" alt="Noegenes" width="250px" src="https://i.imgur.com/ivuvTyU.png" />]
+<img align="left" alt="Noegenes" width="250px" src="https://i.imgur.com/ivuvTyU.png" />
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a student,developer and dogota; designer!!
+## I'm a student,developer and dogital designer!!
 
 - 🔭 ...
 - 🌱 I’m currently learning "python"
