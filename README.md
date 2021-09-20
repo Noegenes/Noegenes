@@ -1,6 +1,6 @@
 ### Hi there, I'm Yusuf / [noegenes][website]
 
-[<img align="left" alt="Noegenes" width="200px" src="https://i.imgur.com/ivuvTyU.png" />)](http://noegenes.tk/)
+[<img align="left" alt="Noegenes" width="200px" src="https://i.imgur.com/ivuvTyU.png" />](http://noegenes.tk/)
 
 ## I'm a student, developer and digital designer!
 
@@ -10,7 +10,7 @@
 
 ### Social Media:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="http://noegenes.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
