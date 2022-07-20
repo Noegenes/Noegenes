@@ -6,7 +6,7 @@
 
 - 🔭 ...
 - 🌱 I’m currently learning "python"
-- ⚡ I’m also good at digital design
+- ⚡ I’m also good at graphic designer
 
 ### Social Media:
 
